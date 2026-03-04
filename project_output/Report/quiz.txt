@@ -1,0 +1,43 @@
+REVISION QUIZ — IoT Device
+============================================================
+
+Q1. What was the first IoT device and what did it do?
+   A) A smart thermostat that regulated temperature.
+   B) A modified toaster that could be controlled over the internet.
+   C) A security camera that sent alerts to users.
+   D) A fitness tracker that monitored physical activity.
+   ✅ Answer: B
+   💡 The first IoT device was a modified toaster that could be controlled over the internet, marking the beginning of the IoT era.
+
+Q2. Who coined the term 'Internet of Things' and in what year?
+   A) Tim Berners-Lee, 1995
+   B) Kevin Ashton, 1999
+   C) Mark Zuckerberg, 2004
+   D) Elon Musk, 2010
+   ✅ Answer: B
+   💡 Kevin Ashton coined the term 'Internet of Things' in 1999 to describe a system where the internet connects to the physical world.
+
+Q3. Which of the following is NOT a communication protocol commonly used by IoT devices?
+   A) Wi-Fi
+   B) Bluetooth
+   C) Zigbee
+   D) HTTP/2
+   ✅ Answer: D
+   💡 HTTP/2 is primarily a protocol for transferring web content, whereas Wi-Fi, Bluetooth, and Zigbee are specifically designed for device-to-device communication in IoT.
+
+Q4. What technological advancements have contributed to the growth of IoT devices?
+   A) Only advancements in hardware.
+   B) Advancements in wireless communication, sensor technology, and cloud computing.
+   C) Only improvements in software development.
+   D) Only the rise of social media.
+   ✅ Answer: B
+   💡 The rapid proliferation of IoT devices is attributed to advancements in wireless communication, sensor technology, and cloud computing.
+
+Q5. In which sectors have IoT devices seen significant adoption?
+   A) Only in smart homes.
+   B) Healthcare, agriculture, and industrial automation.
+   C) Only in entertainment.
+   D) Only in manufacturing.
+   ✅ Answer: B
+   💡 IoT devices have been adopted across various sectors, including healthcare, agriculture, and industrial automation, showcasing their versatility.
+

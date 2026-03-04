@@ -1,0 +1,27 @@
+DATA TABLES — IoT Device
+============================================================
+
+
+Comparison of IoT Device Applications
+┌───────────────────────┬─────────────────────────────────────────────────────┬──────────────────────────────────────────────────────────┐
+│ Application Area      │ Examples of IoT Devices                             │ Key Benefits                                             │
+├───────────────────────┼─────────────────────────────────────────────────────┼──────────────────────────────────────────────────────────┤
+│ Smart Homes           │ Smart thermostats, Smart locks, Smart lights        │ Energy efficiency, Enhanced security, Convenience        │
+│ Healthcare            │ Wearable health monitors, Smart pill dispensers     │ Remote patient monitoring, Improved medication adherence │
+│ Agriculture           │ Soil moisture sensors, Smart irrigation systems     │ Optimized resource usage, Increased crop yield           │
+│ Industrial Automation │ Connected machinery, Predictive maintenance sensors │ Reduced downtime, Enhanced operational efficiency        │
+└───────────────────────┴─────────────────────────────────────────────────────┴──────────────────────────────────────────────────────────┘
+Note: Data compiled from various industry reports on IoT applications.
+
+
+Growth of IoT Devices Over Time
+┌──────┬───────────────────────────────────────────────┬────────────────────────────────┐
+│ Year │ Estimated Number of IoT Devices (in billions) │ Market Value (in trillion USD) │
+├──────┼───────────────────────────────────────────────┼────────────────────────────────┤
+│ 2010 │ 0.5                                           │ 0.01                           │
+│ 2015 │ 5                                             │ 0.25                           │
+│ 2020 │ 30                                            │ 0.75                           │
+│ 2023 │ 75                                            │ 1.5                            │
+└──────┴───────────────────────────────────────────────┴────────────────────────────────┘
+Note: Estimates based on market research and industry forecasts.
+
